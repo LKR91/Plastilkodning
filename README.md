@@ -1,3 +1,9 @@
-# Plastikkodning.dk – Prototype
+# Plastikkodning.dk – Fuldt prototypeprojekt
 
-Prototype af et kodeværktøj til plastikkirurgiske procedurer.
+Denne version inkluderer:
+- Klikbar kropsoversigt
+- Valg af flere anatomiske regioner
+- Dynamisk procedurer og tillægskoder
+- Notat og dato
+- Generér kodetekst
+- Forberedt til e-mail integration
